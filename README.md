@@ -15,7 +15,7 @@ This project addresses the security requirements of e-payment systems through si
 
 ## Repository Structure
 
-- `DataSecurityProject.ipynb`: Jupyter notebook containing the core implementation of payment system protocols and cryptographic operations.
+- `project.ipynb`: Jupyter notebook containing the core implementation of payment system protocols and cryptographic operations.
 - `DS_project_report.pdf`: Detailed report explaining theoretical background, system design, and security analysis of the e-payment scheme.
 
 ## Setup and Running
@@ -37,7 +37,7 @@ cd offline-e-payment-system
 3. Start Jupyter Notebook:
 jupyter notebook
 
-4. Open the `DataSecurityProject.ipynb` notebook and run the cells to see the implementation in action.
+4. Open the `project.ipynb` notebook and run the cells to see the implementation in action.
 
 ## Contributing
 
